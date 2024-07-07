@@ -5,11 +5,15 @@ These mods are mainly for S13 Android; they also work on iOS. These mods are mai
 
 If your device downloads additional content, do the same instead of replacing all the Lang .paks, replace the Langde and Langdeoptional .Paks!
 
-Join our servers:
+FAQ:
 The Renegade raider mod replaces the assault trooper skin. That means you must have it on your account. I'm working on making it swap default skins.
 Emotes replace the boogie down dance enable 2fa on the account [YOU CAN DISABLE IT LATER]
 Mods might not work on some Androids due to security by google you will have to root it.
 Season 13 can also be found on the servers below.
+
+Also, sorry for the video quality at the start.
+
+Join our server!:]
 
 https://discord.gg/xAqPu6j6fJ
 
